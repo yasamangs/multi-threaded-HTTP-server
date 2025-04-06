@@ -4,6 +4,7 @@ A simple multi-threaded HTTP server implementation using C++ and Boost.Asio, wit
 
 ## Project Structure
 
+```plaintext
 Project/
 ├── src/
 │   ├── server.cpp
@@ -42,10 +43,13 @@ make
 ```
 
 ## Running the Server
-Execute the compiled binary:
-./server
 
-The server will start listening on `127.0.0.1:8080.
+Execute the compiled binary:
+```
+./server
+```
+
+The server will start listening on `127.0.0.1:8080`.
 
 ## Performance Monitoring
 
