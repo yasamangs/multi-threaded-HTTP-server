@@ -14,7 +14,7 @@ Project/
 │   └── requirements.txt
 ├── CMakeLists.txt
 └── build/
-
+```
 ## Features
 - Multi-threaded HTTP server implementation
 - Basic HTTP request handling
