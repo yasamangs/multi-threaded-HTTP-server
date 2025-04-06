@@ -1,0 +1,3 @@
+/Users/yasaman/desktop/nokia/Project/build/CMakeFiles/server.dir
+/Users/yasaman/desktop/nokia/Project/build/CMakeFiles/edit_cache.dir
+/Users/yasaman/desktop/nokia/Project/build/CMakeFiles/rebuild_cache.dir
